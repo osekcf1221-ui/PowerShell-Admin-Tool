@@ -1,0 +1,4 @@
+﻿"UserPrincipalName","GroupName","TicketNumber","Status","Message"
+"jan.kowalski@firma.com","VPN_Users","1","Skipped","Missing user or group"
+"anna.nowak@firma.com","VPN_Users","","Skipped","Missing user or group"
+"piotr.test@firma.com","Finance_ReadOnly","3","Skipped","Missing user or group"

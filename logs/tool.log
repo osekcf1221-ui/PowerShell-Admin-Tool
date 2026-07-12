@@ -1,0 +1,39 @@
+﻿[2026-07-12 19:30:42] [INFO] [WHATIF] Would add jan.kowalski@firma.com to group VPN_Users
+[2026-07-12 19:30:42] [INFO] [WHATIF] Would add anna.nowak@firma.com to group VPN_Users
+[2026-07-12 19:30:42] [INFO] [WHATIF] Would add piotr.test@firma.com to group Finance_ReadOnly
+[2026-07-12 19:30:42] [INFO] Report saved to: .\reports\report.csv
+[2026-07-12 19:30:42] [INFO] Script finished
+[2026-07-12 19:31:57] [ERROR] Required column missing in CSV: GroupName
+[2026-07-12 19:32:12] [INFO] [WHATIF] Would add jan.kowalski@firma.com to group VPN_Users
+[2026-07-12 19:32:12] [INFO] [WHATIF] Would add anna.nowak@firma.com to group VPN_Users
+[2026-07-12 19:32:12] [INFO] [WHATIF] Would add piotr.test@firma.com to group Finance_ReadOnly
+[2026-07-12 19:32:12] [INFO] Report saved to: .\reports\report.csv
+[2026-07-12 19:32:12] [INFO] Script finished
+[2026-07-12 19:32:57] [INFO] [WHATIF] Would add jan.kowalski@firma.com to group VPN_Users
+[2026-07-12 19:32:57] [INFO] [WHATIF] Would add anna.nowak@firma.com to group VPN_Users
+[2026-07-12 19:32:57] [INFO] [WHATIF] Would add piotr.test@firma.com to group Finance_ReadOnly
+[2026-07-12 19:32:57] [INFO] Summary:
+[2026-07-12 19:32:57] [INFO] WhatIf: 3
+[2026-07-12 19:32:57] [INFO] Report saved to: .\reports\report.csv
+[2026-07-12 19:32:57] [INFO] Script finished
+[2026-07-12 19:39:40] [INFO] [WHATIF] Would add jan.kowalski@firma.com to group VPN_Users
+[2026-07-12 19:39:40] [INFO] [WHATIF] Would add anna.nowak@firma.com to group VPN_Users
+[2026-07-12 19:39:40] [INFO] [WHATIF] Would add piotr.test@firma.com to group Finance_ReadOnly
+[2026-07-12 19:39:40] [INFO] Summary:
+[2026-07-12 19:39:40] [INFO] WhatIf: 3
+[2026-07-12 19:39:40] [INFO] Report saved to: .\reports\report.csv
+[2026-07-12 19:39:40] [INFO] Script finished
+[2026-07-12 19:45:28] [INFO] [WHATIF] Would add jan.kowalski@firma.com to group VPN_Users
+[2026-07-12 19:45:28] [INFO] [WHATIF] Would add anna.nowak@firma.com to group VPN_Users
+[2026-07-12 19:45:28] [INFO] [WHATIF] Would add piotr.test@firma.com to group Finance_ReadOnly
+[2026-07-12 19:45:28] [INFO] Summary:
+[2026-07-12 19:45:28] [INFO] WhatIf: 3
+[2026-07-12 19:45:28] [INFO] Report saved to: .\reports\report.csv
+[2026-07-12 19:45:28] [INFO] Script finished
+[2026-07-12 19:47:14] [WARN] Skipping row with missing data
+[2026-07-12 19:47:14] [WARN] Skipping row with missing data
+[2026-07-12 19:47:14] [WARN] Skipping row with missing data
+[2026-07-12 19:47:14] [INFO] Summary:
+[2026-07-12 19:47:14] [INFO] Skipped: 3
+[2026-07-12 19:47:14] [INFO] Report saved to: .\reports\report.csv
+[2026-07-12 19:47:14] [INFO] Script finished

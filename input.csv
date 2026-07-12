@@ -1,0 +1,4 @@
+UserPrincipalName,GroupName,TicketNumber
+jan.kowalski@firma.com,VPN_Users,1
+anna.nowak@firma.com,VPN_Users,
+piotr.test@firma.com,Finance_ReadOnly,3
